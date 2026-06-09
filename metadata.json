@@ -1,0 +1,6 @@
+{
+  "name": "一颗印图书旅馆改造设计系统",
+  "description": "专注云南昆明传统“一颗印”历史合院保护与活化设计，配备交互式CAD测绘图、在地色调选材版、消防文保等。配合Gemini 3.5 AI提供安全与地缘美学适配的设计咨询。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
